@@ -1,5 +1,5 @@
 body {
-  font-family: 'Roboto Condensed', sans-serif;
+  /* font-family: 'Roboto Condensed', sans-serif; */
   font-family: 'Roboto Mono', monospace;
   background-color: #f4f4f4;
   margin: 0;
@@ -43,4 +43,14 @@ button {
 
 button:hover{
   opacity: 1;
+}
+
+.timer {
+  text-align: center;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.time {
+  color: red;
 }

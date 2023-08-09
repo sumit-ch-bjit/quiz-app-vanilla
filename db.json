@@ -1,0 +1,77 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the largest mammal in the world?",
+        "options": ["Blue Whale", "African Elephant", "Giraffe", "Hippopotamus"],
+        "answer": "Blue Whale"
+      },
+      {
+        "id": 2,
+        "question": "Which gas is most abundant in Earth's atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+        "answer": "Nitrogen"
+      },
+      {
+        "id": 3,
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+        "answer": "Leonardo da Vinci"
+      },
+      {
+        "id": 4,
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Mars", "Saturn", "Jupiter", "Neptune"],
+        "answer": "Jupiter"
+      },
+      {
+        "id": 5,
+        "question": "What is the national flower of Japan?",
+        "options": ["Tulip", "Rose", "Cherry Blossom", "Daisy"],
+        "answer": "Cherry Blossom"
+      },
+      {
+        "id": 6,
+        "question": "Which famous scientist developed the theory of relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Galileo Galilei"],
+        "answer": "Albert Einstein"
+      },
+      {
+        "id": 7,
+        "question": "In which year did the Titanic sink?",
+        "options": ["1912", "1905", "1920", "1931"],
+        "answer": "1912"
+      },
+      {
+        "id": 8,
+        "question": "What is the capital of Australia?",
+        "options": ["Melbourne", "Sydney", "Canberra", "Perth"],
+        "answer": "Canberra"
+      },
+      {
+        "id": 9,
+        "question": "What is the chemical symbol for the element gold?",
+        "options": ["Au", "Ag", "Gd", "Go"],
+        "answer": "Au"
+      },
+      {
+        "id": 10,
+        "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+        "options": ["Mars", "Mercury", "Venus", "Uranus"],
+        "answer": "Venus"
+      },
+      {
+        "id": 11,
+        "question": "What is the capital of France?",
+        "options": ["Paris", "Madrid", "Berlin", "Rome"],
+        "answer": "Paris"
+      },
+      {
+        "id": 12,
+        "question": "Which famous playwright wrote plays such as 'Romeo and Juliet' and 'Hamlet'?",
+        "options": ["William Shakespeare", "George Bernard Shaw", "Oscar Wilde", "Christopher Marlowe"],
+        "answer": "William Shakespeare"
+      }
+    ]
+  }
+  
